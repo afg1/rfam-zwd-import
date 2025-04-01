@@ -106,6 +106,7 @@ def get_folders():
         # 'hairpin',
         # 'patches',
         'preQ1-III',
+        "perm-group-II",
         'r-leader',
         'ts',
         'twister',
@@ -184,7 +185,7 @@ def main():
     data = {
         'data': entries,
         'metaData': {
-                "dateProduced": "2020-06-05T00:00:00+01:00",
+                "dateProduced": "2025-04-01T00:00:00+01:00",
                 'dataProvider': 'ZWD',
                 'release': '1.1',
                 'schemaVersion': '0.2.0',
